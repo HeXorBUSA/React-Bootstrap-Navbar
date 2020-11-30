@@ -1,7 +1,7 @@
 import React from "react";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
-import { Switch, Route } from "react-router-dom";
+import { Switch, Route, Redirect } from "react-router-dom";
 import About from "./About";
 import Contact from "./Contact";
 import Home from "./Home";
@@ -19,6 +19,7 @@ const App = () => {
         <Route exact path="/About" component={About} />
         <Route exact path="/Services" component={Services} />
         <Route exact path="/Contact" component={Contact} />
+        <Redirect to="/" />
       </Switch>
       <Watch />
 
