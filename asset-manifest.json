@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Bootstrap-Navbar/static/css/main.15083828.chunk.css",
+    "main.js": "/React-Bootstrap-Navbar/static/js/main.2a9445db.chunk.js",
+    "main.js.map": "/React-Bootstrap-Navbar/static/js/main.2a9445db.chunk.js.map",
+    "runtime-main.js": "/React-Bootstrap-Navbar/static/js/runtime-main.11fb606c.js",
+    "runtime-main.js.map": "/React-Bootstrap-Navbar/static/js/runtime-main.11fb606c.js.map",
+    "static/css/2.07725c36.chunk.css": "/React-Bootstrap-Navbar/static/css/2.07725c36.chunk.css",
+    "static/js/2.f0fec0d4.chunk.js": "/React-Bootstrap-Navbar/static/js/2.f0fec0d4.chunk.js",
+    "static/js/2.f0fec0d4.chunk.js.map": "/React-Bootstrap-Navbar/static/js/2.f0fec0d4.chunk.js.map",
+    "index.html": "/React-Bootstrap-Navbar/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/React-Bootstrap-Navbar/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.15083828.chunk.css.map": "/React-Bootstrap-Navbar/static/css/main.15083828.chunk.css.map",
+    "static/js/2.f0fec0d4.chunk.js.LICENSE.txt": "/React-Bootstrap-Navbar/static/js/2.f0fec0d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11fb606c.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.f0fec0d4.chunk.js",
+    "static/css/main.15083828.chunk.css",
+    "static/js/main.2a9445db.chunk.js"
+  ]
+}
